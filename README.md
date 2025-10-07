@@ -96,7 +96,6 @@ FINAL PROJECT/
 1. **Clone or Download** this repository:
    ```bash
    git clone https://github.com/jannelledingal/HAPPYFOOD_ORDERING_MANAGEMENT_SYSTEM.git
-````
 
 2. **Navigate** to the project folder:
 
@@ -137,4 +136,3 @@ FINAL PROJECT/
 > **Note:**
 > This project was created for academic purposes as part of an IT final requirement.
 > It demonstrates functional modular programming, UI design, and database integration using Python(VS Code as IDE).
-
